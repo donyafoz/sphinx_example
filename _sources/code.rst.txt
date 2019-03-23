@@ -1,0 +1,5 @@
+Auto Generated Code Documentation
+=================================
+.. automodule:: hw1_Fozoonmayeh_Donya_sphinx
+    :members:
+    :undoc-members:
